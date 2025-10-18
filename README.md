@@ -57,8 +57,8 @@ admin.html
 
         <div class="team">
             <div class="member">
-                <img src="me.jpg" alt="Kervin.S">
-                <h3>NKK</h3>
+                <img src="me.jpg" alt="Anish Adan Thivakaran">
+                <h3>Anish</h3>
                 <p>CEO</p>
             </div>
 
